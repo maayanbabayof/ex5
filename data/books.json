@@ -1,0 +1,28 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "category": "Romance"
+        },
+        {
+            "id": 2,
+            "category": "Fantasy"
+        },
+        {
+            "id": 3,
+            "category": "Science Fiction"
+        },
+        {
+            "id": 4,
+            "category": "Fiction"
+        },
+        {
+            "id": 5,
+            "category": "Fiction"
+        },
+        {
+            "id": 6,
+            "category": "Fantasy"
+        }
+    ]
+}
